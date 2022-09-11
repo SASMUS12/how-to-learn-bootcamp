@@ -3,7 +3,6 @@
   max-width: 1600px;
   margin: 0 auto;
   width: 100%;
-  max-width: 100%;
   overflow-x: hidden;
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
@@ -74,7 +73,6 @@
   font-size: 18px;
   font-weight: normal;
   line-height: 25px;
-  font-size: 18px;
   position: absolute;
   left: 64px;
   bottom: 30px;
@@ -138,7 +136,6 @@
 }
 
 .two-columns__span-accent {
-  margin: 0;
   font-size: 24px;
   font-weight: 600;
   line-height: 34px;
@@ -412,7 +409,6 @@ width: 250px;
   font-weight: normal;
   line-height: 30px;
   margin-top: 0;
-  margin-bottom: 16px;
   list-style-type: none;
   margin-bottom: 0;
 }
