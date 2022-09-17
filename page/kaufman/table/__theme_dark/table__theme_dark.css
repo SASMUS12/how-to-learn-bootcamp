@@ -1,0 +1,5 @@
+.table__theme_dark {
+  z-index: 1;
+  position: relative;
+  padding: 0;
+}
