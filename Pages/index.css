@@ -53,18 +53,21 @@
 @import url("../page/footer/__column_links/footer__column_links.css");
 @import url("../page/footer/__social_icon/footer__social_icon.css");
 @import url("../page/footer/__column_link/footer__column_link.css");
+/*Блок descdription*/
+@import url("../page/techniques/techniques.css");
+@import url("../page/techniques/cards/cards.css");
+@import url("../page/techniques/cards/__item/cards__item.css");
+@import url("../page/techniques/cards/__image/cards__image.css");
+@import url("../page/techniques/cards/__title/cards__title.css");
+@import url("../page/techniques/cards/__description/cards__description.css");
 
 
 
 
 
-@import url("");
-@import url("");
-@import url("");
-@import url("");
-@import url("");
-@import url("");
-@import url("");
+
+
+
 @import url("");
 @import url("");
 @import url("");
