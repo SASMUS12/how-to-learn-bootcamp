@@ -60,17 +60,10 @@
 @import url("../page/techniques/cards/__image/cards__image.css");
 @import url("../page/techniques/cards/__title/cards__title.css");
 @import url("../page/techniques/cards/__description/cards__description.css");
-
-
-
-
-
-
-
-
-@import url("");
-@import url("");
-@import url("");
+/*Блок video*/
+@import url("../page/video/video.css");
+@import url("../page/video/__iframes/video__iframes.css");
+@import url("../page/video/__iframe/video__iframe.css");
 @import url("");
 @import url("");
 @import url("");
