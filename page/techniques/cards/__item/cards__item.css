@@ -1,4 +1,5 @@
 .cards__item {
-list-style-type: none;
-text-align: center;
+  width: 240px;
+  margin-top: 60px;
+  list-style-type: none;
 }
