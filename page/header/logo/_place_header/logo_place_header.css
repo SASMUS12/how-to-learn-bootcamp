@@ -4,7 +4,7 @@
   position: absolute;
 }
 
-.logo__place_headder:hover {
+.logo_place_headder:hover {
   transition-duration: .2s;
   opacity: 0.3;
 }

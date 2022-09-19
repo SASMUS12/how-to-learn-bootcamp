@@ -35,7 +35,7 @@
 @import url("../page/digits/section-title/_theme_dark/section-title_theme_dark.css");
 @import url("../page/digits/section-subtitle/_theme_dark/section-subtitle_theme_dark.css");
 @import url("../page/kaufman/table/table.css");
-@import url("../page/kaufman/table/__theme_dark/table__theme_dark.css");
+@import url("../page/kaufman/table/_theme_dark/table_theme_dark.css");
 @import url("../page/kaufman/table/__cell_theme_dark/table__cell_theme_dark.css");
 @import url("../page/kaufman/table/__heading_theme_dark/table__heading_theme_dark.css");
 @import url("../page/kaufman/table/__text_theme_dark/table__text_theme_dark.css");
@@ -50,10 +50,10 @@
 @import url("../page/footer/logo/logo.css");
 @import url("../page/header/logo/_place_footer/logo_place_footer.css");
 @import url("../page/footer/__author/footer__author.css");
-@import url("../page/footer/__column_heading/footer__column_heading.css");
-@import url("../page/footer/__column_links/footer__column_links.css");
-@import url("../page/footer/__social_icon/footer__social_icon.css");
-@import url("../page/footer/__column_link/footer__column_link.css");
+@import url("../page/footer/__column-heading/footer__column-heading.css");
+@import url("../page/footer/__column-links/footer__column-links.css");
+@import url("../page/footer/__social-icon/footer__social-icon.css");
+@import url("../page/footer/__column-link/footer__column-link.css");
 /*Блок descdription*/
 @import url("../page/techniques/techniques.css");
 @import url("../page/techniques/cards/cards.css");
