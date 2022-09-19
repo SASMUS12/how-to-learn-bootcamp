@@ -5,6 +5,6 @@
 }
 
 .header__link:hover {
-  ransition-duration: .2s;
+  transition-duration: .2s;
   opacity: 0.3;
 }

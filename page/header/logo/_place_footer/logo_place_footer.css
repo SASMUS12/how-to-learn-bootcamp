@@ -3,3 +3,8 @@
   top: 0;
   left: 0;
 }
+
+.logo__place_footer:hover {
+  transition-duration: .2s;
+  opacity: 0.3;
+}
