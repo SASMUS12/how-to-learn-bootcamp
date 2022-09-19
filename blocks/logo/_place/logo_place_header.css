@@ -2,9 +2,11 @@
   top: 30px;
   left: 64px;
   position: absolute;
+  z-index: 1;
+
 }
 
-.logo_place_headder:hover {
+.logo_place_header:hover {
   transition-duration: .2s;
   opacity: 0.3;
 }
