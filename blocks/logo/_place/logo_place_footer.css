@@ -1,10 +1,8 @@
 .logo_place_footer {
   margin-top: 0;
-  top: 0;
-  left: 0;
+  transition-duration: .2s;
 }
 
 .logo_place_footer:hover {
-  transition-duration: .2s;
   opacity: 0.3;
 }
