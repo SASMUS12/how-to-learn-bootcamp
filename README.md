@@ -2,24 +2,33 @@
 
 ## Профессия Фронтенд-разработчик буткемп
 
-### Sprint 1
+## Описание проекта
+Данный учебный проект представляет типовой одностраничный сайт, который посвящен современным и эффективным подходам к обучению.
 
-Позади
+Первая самостоятельная работа.
 
-### Sprint 2
+Desktop вёрстка небольшого одностраничного сайта по предоставленному брифу.
 
-Позади
+## Функционал:
+- Использование CSS-анимации;
+- Встроенные видео (YouTube IFrame Player API).
 
-### Sprint 3
+## Стек технологий:
+- HTML5;
+- CSS3:
+  - Flexbox;
+  - Positioning;
+  - Adaptive UI;
+  - Media Queries;
+- Методология БЭМ;
+- Фйловая структура Nested БЭМ;
+- Работа с медиафайлами (HTML-video, iframe);
+- Вёрстка по макету в Figma.
 
-Начал.......
+## Брифы Проектной работы:
+- [Бриф 1](https://code.s3.yandex.net/web-developer/project-1/sprint-1-brief.pdf);
+- [Бриф 2](https://code.s3.yandex.net/web-developer/project-1/sprint-2-brief.pdf);
 
-# Круто
-
-## Описание
-
-Первая самостоятельная работа. Desktop вёрстка небольшого одностраничного сайта по предоставленному брифу.
-
-## Стек
-
-HTML5, CSS3(@keyframes, flexbox), BEM
+## Чеклисты Проектной работы:
+- [Чеклист 1](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-1/index.html);
+- [Чеклист 2](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-2/index.html).
